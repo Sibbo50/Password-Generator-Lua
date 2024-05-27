@@ -3,5 +3,3 @@ This is a password generator in Lua with a password-saving functionality. It wil
 The password saving option isn't really safe since it saves the passwords and the website name as text. So if you actually want to use this, don't. I just made it for learning purposes
 
 Use this script everywhere you want, you can change it and share it idc
-
-Sorry for the shitty GitHub page, i have never done this before 😛

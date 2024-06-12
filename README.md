@@ -8,6 +8,7 @@ This is a password generator in Lua with a password-saving functionality. It wil
 - Option for saving passwords to a txt file in your documents folder
 - Detection duplicate password entries (and ignore or overwrite the duplicate password)
 - unsafe password warning
+- changing password length
 - adding names or descriptions to passwords
 
 > The password saving option isn't really safe since it saves the passwords and the website name as text. So if you want to save your passwords, they will be saved as plain text which can be read by anyone with aceess to the PC. I just made it for learning purposes

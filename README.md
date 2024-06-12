@@ -15,5 +15,6 @@ This is a password generator in Lua with a password-saving functionality. It wil
 ### Usage
 
 **works with Mac, Linux and Windows**
+
 **You can use [Zero Brane Studio](https://studio.zerobrane.com/download?not-this-time) or [Visual Studio Code](https://code.visualstudio.com/) (with the [Lua extension](https://marketplace.visualstudio.com/items?itemName=sumneko.lua)) or a compiler of your choice to run the script**
 > online compilers will not work since you cant save the passwords and because the script is interactive
